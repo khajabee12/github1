@@ -9,6 +9,10 @@ static By link_logout = By.linkText("Logout");
 public static void logout() {
 	driver.findElement(link_logout).click();
 	System.out.println("logout is completed");
+	khajabee
+		uneesha
+		khajavalli
+		masthan begum
 }
 	
 }
