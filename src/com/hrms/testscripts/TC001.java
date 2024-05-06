@@ -14,6 +14,8 @@ public class TC001 {
     LoginPage.login("nareshit", "nareshit");
     VerifyTitle.verifytitle();
     LogoutPage.logout();
+		addemp.add();
+		editemp.edit();
     
 	}
 
